@@ -35,7 +35,7 @@ chrome_options.add_extension("./Adblock-Plus_v1.13.2.crx")
 driver = webdriver.Chrome('/opt/chromedriver/chromedriver', chrome_options=chrome_options) # pylint: disable=invalid-name
 feedparser.RESOLVE_RELATIVE_URIS = 0
 feed = feedparser.parse(url)
-con = lite.connect('feedparser.db', isolation_level=None) # pylint: disable=invalid-name
+con = lite.connect('../../../data/btw17_v1.db', isolation_level=None) # pylint: disable=invalid-name
 cur = con.cursor()
 
 
