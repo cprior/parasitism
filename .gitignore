@@ -1,7 +1,10 @@
-application/physical/stn/bin/
-application/physical/stn/include/
-application/physical/stn/lib/
-application/physical/stn/local/
-application/physical/stn/pip-selfcheck.json
-application/physical/stn/selenium/
-application/physical/stn/share/
+application/physical/btw17/bin/
+application/physical/btw17/include/
+application/physical/btw17/lib/
+application/physical/btw17/local/
+application/physical/btw17/pip-selfcheck.json
+application/physical/btw17/selenium/
+application/physical/btw17/share/
+application/physical/.ipynb_checkpoints
+application/physical/building-blocks
+application/physical/btw17/btw17/__pycache__

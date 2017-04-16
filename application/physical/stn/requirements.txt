@@ -1,9 +1,0 @@
-beautifulsoup4==4.5.3
-feedparser==5.2.1
-lxml==3.7.3
-pyparsing==2.2.0
-PyVirtualDisplay==0.2.1
-rb==1.6
-redis==2.10.5
-requests==2.13.0
-selenium==3.3.1
